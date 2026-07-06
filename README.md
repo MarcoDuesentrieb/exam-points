@@ -84,7 +84,7 @@ Solve the following equation ...
 
 | Option                | Type            | Description                                                                 | Default |
 |-----------------------|-----------------|-----------------------------------------------------------------------------|---------|
-| `exam.points-total`   | number          | Total points of the exam                                                    | -       |
+| `points-total`        | number          | Total points of the exam                                                    | -       |
 | `render-warning`      | boolean         | Show warning if points don't match                                          | `true`  |
 | `points-label`        | string or array | Custom label used for point suffix; string = same label for singular/plural, array = `[singular, plural]` | `points` |
 
