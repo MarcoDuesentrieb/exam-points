@@ -97,7 +97,7 @@ exam:
   points-label: ["punto","puntos"]
 ```
 
-This will render headings like **Ejercicio 1 (15 punto)** when the point value is singular and **Ejercicio 1 (1 puntos)** when plural.
+This will render headings like **Ejercicio 1 (1 punto)** when the point value is singular and **Ejercicio 1 (15 puntos)** when plural.
 
 ## License
 
