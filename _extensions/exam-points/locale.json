@@ -1,0 +1,58 @@
+{
+  "en": {
+    "warning_title": "Check total points!",
+    "warning_label": "Warning:",
+    "invalid_total": "Point check enabled, but invalid total points (exam.points-total) specified!",
+    "mismatch_total": "exam.points-total is %s, but total points from tasks are %s.",
+    "success_total": "Total points (%s) match the sum of all subquestions ✓"
+  },
+  "de": {
+    "warning_title": "Achtung: Gesamtpunktzahl prüfen!",
+    "warning_label": "Warnung:",
+    "invalid_total": "Punktekontrolle aktiviert, aber ungültige Gesamtpunktzahl (exam.points-total) angegeben!",
+    "mismatch_total": "exam.points-total ist %s, aber die aus den Aufgaben berechneten Punkte sind %s.",
+    "success_total": "Gesamtpunktzahl (%s) stimmt mit der Summe aller Teilaufgaben überein ✓"
+  },
+  "fr": {
+    "warning_title": "Vérifier le total des points !",
+    "warning_label": "Attention :",
+    "invalid_total": "Contrôle des points activé, mais le total de points spécifié (exam.points-total) est invalide !",
+    "mismatch_total": "exam.points-total est %s, mais le total calculé des points des tâches est %s.",
+    "success_total": "Le total des points (%s) correspond à la somme de toutes les sous-questions ✓"
+  },
+  "it": {
+    "warning_title": "Verifica il totale dei punti!",
+    "warning_label": "Avviso:",
+    "invalid_total": "Controllo dei punti attivato, ma il totale dei punti specificato (exam.points-total) non è valido!",
+    "mismatch_total": "exam.points-total è %s, ma il totale dei punti calcolati dalle attività è %s.",
+    "success_total": "Il totale dei punti (%s) corrisponde alla somma di tutte le sotto-domande ✓"
+  },
+  "es": {
+    "warning_title": "¡Verifique el total de puntos!",
+    "warning_label": "Advertencia:",
+    "invalid_total": "Control de puntos activado, pero el total de puntos especificado (exam.points-total) no es válido.",
+    "mismatch_total": "exam.points-total es %s, pero el total calculado de los puntos de las tareas es %s.",
+    "success_total": "El total de puntos (%s) coincide con la suma de todas las subpreguntas ✓"
+  },
+  "nl": {
+    "warning_title": "Controleer het totaal aantal punten!",
+    "warning_label": "Waarschuwing:",
+    "invalid_total": "Puntencontrole ingeschakeld, maar het opgegeven totaal aantal punten (exam.points-total) is ongeldig!",
+    "mismatch_total": "exam.points-total is %s, maar het berekende totaal van de taken is %s.",
+    "success_total": "Het totaal aantal punten (%s) komt overeen met de som van alle deelvragen ✓"
+  },
+  "pl": {
+    "warning_title": "Sprawdź sumę punktów!",
+    "warning_label": "Ostrzeżenie:",
+    "invalid_total": "Kontrola punktów włączona, ale podana suma punktów (exam.points-total) jest nieprawidłowa!",
+    "mismatch_total": "exam.points-total wynosi %s, ale suma punktów z zadań wynosi %s.",
+    "success_total": "Łączna liczba punktów (%s) zgadza się z sumą wszystkich podzadań ✓"
+  },
+  "ru": {
+    "warning_title": "Проверьте общее количество баллов!",
+    "warning_label": "Внимание:",
+    "invalid_total": "Проверка баллов включена, но указанное общее количество баллов (exam.points-total) недействительно!",
+    "mismatch_total": "exam.points-total равно %s, но рассчитанное общее количество баллов по заданиям равно %s.",
+    "success_total": "Общее количество баллов (%s) совпадает с суммой всех подзадач ✓"
+  }
+}

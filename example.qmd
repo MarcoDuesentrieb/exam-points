@@ -1,0 +1,17 @@
+---
+title: "Electronics Exam"
+exam:
+  points-total: 10
+  points-label: ["Point", "Points"]
+  render-warning: true
+filters:
+  - exam-points
+---
+
+# Exercise 1 {.points=7}
+
+This is a sample question for the electronics exam.
+
+# Exercise 2 {.points=3}
+
+This is another sample question for the electronics exam.
